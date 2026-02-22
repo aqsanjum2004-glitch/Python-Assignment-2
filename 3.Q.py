@@ -40,3 +40,16 @@ for letter in sentence:
 print("Reversed:", reverse_text)
 
 # End of Program
+output:
+
+Enter a sentence: Coding is powerful
+Original: Coding is powerful
+Characters (with spaces): 18
+Characters (without spaces): 16
+Words: 3
+UPPERCASE: CODING IS POWERFUL
+lowercase: coding is powerful
+Title Case: Coding Is Powerful
+First word: Coding
+Last word: powerful
+Reversed: lufrewop si gnidoC
